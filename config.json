@@ -1,0 +1,67 @@
+{
+    "allFram": {
+        "fram0": {
+            "item0": {
+                "data": "12",
+                "name": "帧头",
+                "type": "u8"
+            },
+            "item1": {
+                "data": "12",
+                "name": "地址",
+                "type": "u8"
+            },
+            "itemNum": 2,
+            "name": "heat"
+        },
+        "fram1": {
+            "item0": {
+                "data": "12",
+                "name": "帧头",
+                "type": "u8"
+            },
+            "item1": {
+                "data": "12",
+                "name": "类型",
+                "type": "u8"
+            },
+            "itemNum": 2,
+            "name": "test"
+        },
+        "framNum": 2,
+        "framCurrent": 1
+    },
+    "rxAllFram": {
+        "fram0": {
+            "item0": {
+                "data": "12",
+                "name": "帧头",
+                "type": "u8"
+            },
+            "item1": {
+                "data": "12",
+                "name": "地址",
+                "type": "u8"
+            },
+            "itemNum": 2,
+            "name": "heat"
+        },
+        "fram1": {
+            "item0": {
+                "data": "12",
+                "name": "帧头",
+                "type": "u8"
+            },
+            "item1": {
+                "data": "12",
+                "name": "类型",
+                "type": "u8"
+            },
+            "itemNum": 2,
+            "name": "test"
+        },
+        "framNum": 2,
+        "framCurrent": 1
+    },
+    "config": {}
+}
